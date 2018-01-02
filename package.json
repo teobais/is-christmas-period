@@ -1,0 +1,32 @@
+{
+  "name": "is-christmas-period",
+  "version": "1.0.0",
+  "description": "Identify whether the current or given date is about the Christmas period",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover  jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toubou91/is-christmas-period.git"
+  },
+  "keywords": [
+    "christmas",
+    "christmas-period",
+    "period",
+    "time",
+    "year",
+    "vacation",
+    "new-year"
+  ],
+  "author": "Thodoris Bais <thodoris.bais@gmail.com> (http://twitter.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/toubou91/is-christmas-period/issues"
+  },
+  "homepage": "https://github.com/toubou91/is-christmas-period#readme",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine-node": "^1.14.5"
+  }
+}
