@@ -1,6 +1,6 @@
 {
   "name": "is-christmas-period",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Identify whether the current or given date is about the Christmas period",
   "main": "index.js",
   "scripts": {
