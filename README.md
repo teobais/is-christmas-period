@@ -48,3 +48,6 @@ Then, run the tests
 ```
 $ npm test
 ```
+
+## Credits
+Many thanks to [EditThisCookie](https://github.com/fcapano/Edit-This-Cookie) Chrome extension.
